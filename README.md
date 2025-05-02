@@ -1,4 +1,5 @@
-# Raphael Nunes — Soldado da Reserva e Engenheiro de Computação
+#Raphael Nunes — Soldado da Reserva do Exercício, Eng. de Computação em formação | Estudante de DevSecOps e Python | Backend em evolução | Fundador RN Redes | Redes & Projetos Tech
+
 
 Veterano do Exército Brasileiro, onde atuei no Pelotão de Emprego Especial (PELOPES) como rádio operador.  
 Trago a disciplina militar e a precisão da estratégia de guerra para o mundo da tecnologia, empreendedorismo e engenharia.
@@ -27,6 +28,12 @@ Fundador da **RN Networks Engenharia** e idealizador do projeto **ZappTrampo**, 
   Plataforma de gestão com foco em: controle financeiro, cadastro de clientes e fornecedores, relatórios, histórico de serviços e muito mais.
 
 > **Nota:** Projeto ZappTrampo ainda em fase privada de desenvolvimento.
+
+---
+
+##Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rn-networks&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
 
