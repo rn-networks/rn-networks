@@ -19,6 +19,13 @@ Fundador da **RN Networks Engenharia** e idealizador do projeto **ZappTrampo**, 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/-Networking-0052CC?style=flat)
+## 🔐 DevSecOps
+
+[![DevSecOps](https://img.shields.io/badge/DevSecOps-Security%20First-blueviolet?style=for-the-badge&logo=shield&logoColor=white)](https://owasp.org/www-project-devsecops-guideline/)
+
+Integro práticas de DevSecOps para garantir que **segurança**, **desenvolvimento** e **operações** atuem juntos desde o início do ciclo de vida do software.
+
+
 
 ---
 
